@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hello, I'm Srishti Gupta
+I'm an aspiring Full-Stack Web Developer currently diving deep into the MERN Stack — MongoDB, Express.js, React, and Node.js. I'm passionate about turning ideas into interactive, real-world applications and continuously learning new technologies to sharpen my skills.
 
-<!--
-**srishtigupta111/srishtigupta111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 What I'm Learning:
+🔧 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)
 
-Here are some ideas to get you started:
+🔧 Backend: Node.js, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ Database: MongoDB
+
+🌐 Working with REST APIs, JSON, and version control with Git & GitHub
+
+💡 What I'm Interested In:
+Building full-stack web apps
+
+Responsive and accessible UI/UX
+
+Learning best practices in clean, scalable code
+
+Exploring open-source projects and real-world collaborations
+
+🔭 Current Goals:
+Complete personal MERN stack projects
+
+Contribute to beginner-friendly open-source repositories
+
+Build a strong portfolio of practical, deployable apps
+
+
